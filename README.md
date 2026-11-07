@@ -18,7 +18,6 @@
 - 🔬 Exploring **Spiking Neural Networks (SNNs)** and efficient AI deployment on resource-constrained devices.
 - 💻 Enjoy solving algorithmic problems and building practical software solutions.
 - 📚 Always learning, experimenting, and improving my technical skills.
-- 🎧 Outside of coding, I enjoy reading books and listening to music.
 
 ---
 
